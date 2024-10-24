@@ -33,6 +33,7 @@
    <li>Traffic by Day of the Week: Analyzed traffic patterns to determine which days of the week had the most/least visits</li>
  </ul>
 <p>	3.	Visualizations: </p>
+![Alt text] (https://github.com/mildredblose/website-traffic-analysis/blob/main/visualization/visuals.png)
 <ul>
   <li>Line charts showing traffic trends over time</li>
   <li>Bar chart displaying average traffic by day of the week</li>
